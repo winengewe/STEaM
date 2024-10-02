@@ -43,3 +43,6 @@ MSTES-HP.py is MineShaft Thermal Energy Storage - Heat Pump Python file
 7) Run the code.
 8) If you want to combine all the data in csv., open the 'combine_csv.py' and it will generate a 'combined.csv' file.
 9) Check the results (graphs in png. format and data in csv. format) in the 'results' folder.
+
+# Cite
+Ewe WE, Tuohy P, Flett G. STEaM source code [python], Github. August 20 2024. https://github.com/winengewe/STEaM
